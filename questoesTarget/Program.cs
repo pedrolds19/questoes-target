@@ -56,12 +56,18 @@ class Program
         return false;
     }
 
+    public class FaturamentoDia
+    {
+        public int Dia { get; set; }
+        public double Valor { get; set; }
+    }
+
     static void CalculaFaturamento()
     {
-        string json = File.ReadAllText("faturamento.json"); 
-        var faturamentoMensal = JsonConvert.DeserializeObject<Dictionary<string, double>>(json);
+        string json = File.ReadAllText("faturamento.json");
+        var faturamentoMensal = JsonConvert.DeserializeObject<List<FaturamentoDia>>(json);
 
-        var valores = faturamentoMensal.Values.Where(v => v > 0).ToList();
+        var valores = faturamentoMensal.Where(f => f.Valor > 0).Select(f => f.Valor).ToList();
 
         double menorValor = valores.Min();
         double maiorValor = valores.Max();

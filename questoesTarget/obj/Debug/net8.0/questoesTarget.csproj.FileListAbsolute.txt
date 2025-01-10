@@ -1,0 +1,17 @@
+E:\Repositórios\questoesTarget\questoesTarget\bin\Debug\net8.0\questoesTarget.exe
+E:\Repositórios\questoesTarget\questoesTarget\bin\Debug\net8.0\questoesTarget.deps.json
+E:\Repositórios\questoesTarget\questoesTarget\bin\Debug\net8.0\questoesTarget.runtimeconfig.json
+E:\Repositórios\questoesTarget\questoesTarget\bin\Debug\net8.0\questoesTarget.dll
+E:\Repositórios\questoesTarget\questoesTarget\bin\Debug\net8.0\questoesTarget.pdb
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.AssemblyInfoInputs.cache
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.AssemblyInfo.cs
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.csproj.CoreCompileInputs.cache
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.dll
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\refint\questoesTarget.dll
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.pdb
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.genruntimeconfig.cache
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\ref\questoesTarget.dll
+E:\Repositórios\questoesTarget\questoesTarget\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoesTarget.csproj.AssemblyReference.cache
+E:\Repositórios\questoesTarget\questoesTarget\obj\Debug\net8.0\questoes.796C4C98.Up2Date
